@@ -1,6 +1,6 @@
 # MYSQL
 
-➡️Introduction to SQL
+➡️Introduction to SQL<br>
 ➡️What is database?
 ➡️Types of databases
 ➡️Installation of MySQL
